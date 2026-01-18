@@ -6,7 +6,6 @@ void main() {
   try {
     res = a ~/ b;
     print("Result is $res");
-
   }
   
   // It returns the built-in exception related to the occurring exception
